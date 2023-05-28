@@ -35,11 +35,7 @@
 
     <dependencies>
 
-        <dependency>
-            <groupId>org.apache.paimon</groupId>
-            <artifactId>paimon-bundle</artifactId>
-            <version>${paimon.version}</version>
-        </dependency>
+
 
         <dependency>
             <groupId>org.apache.seatunnel</groupId>
