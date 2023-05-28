@@ -56,7 +56,7 @@
         <module>connector-mongodb</module>
         <module>connector-iceberg</module>
         <module>connector-influxdb</module>
-        <module>connector-amazondynamodb</module>
+
         <module>connector-tablestore</module>
         <module>connector-cassandra</module>
         <module>connector-s3-redshift</module>
